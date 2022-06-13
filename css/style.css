@@ -2,7 +2,42 @@
     margin: 0;
 }
 
+main {
+    padding-left: 5px;
+}
+
 #sfondo_header {
     height: 100px;
-    background-image: url('/img/pattern.png');
+    background-color: #4EA0FF;
+}
+
+#logo {
+    width: 200px;
+    height: 60px;
+    padding-top: 35px;
+    padding-left: 5px;
+}
+
+#titolo {
+    font-size: 50px;
+}
+
+#autore {
+    font-size: 16px;
+    color: grey;
+}
+
+h6 span {
+    color:#4EA0FF
+}
+
+#data_articolo {
+    font-size: 10px;
+    color: grey;
+    font-weight: 800;
+}
+
+#commento_foto {
+    font-size: 10px;
+    font-weight: bold;
 }
