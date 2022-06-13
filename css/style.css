@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+}
+
+#sfondo_header {
+    height: 100px;
+    background-image: url('/img/pattern.png');
+}
