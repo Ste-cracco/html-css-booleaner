@@ -9,6 +9,8 @@ main {
 #sfondo_header {
     height: 100px;
     background-color: #4EA0FF;
+    background-image: url('../img/pattern.png');
+    background-size: contain;
 }
 
 #logo {
@@ -92,14 +94,14 @@ section > span {
     margin-top: 15px;
     height: 200px;
     width: 300px;
-    background-image: url('https://c4.wallpaperflare.com/wallpaper/182/19/597/green-leaf-tree-at-daytime-wallpaper-preview.jpg');
+    background-image: url('../img/monitor.jpg');
 }
 
 .riquadro_immagine2 {
     margin-top: 15px;
     height: 200px;
     width: 300px;
-    background-image: url('https://www.ideabit.com/album/foto_full/formato-immagini-webp_710.jpg');
+    background-image: url('../img/graph.jpg');
     margin-bottom: 25px;
 }
 
