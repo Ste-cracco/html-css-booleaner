@@ -45,3 +45,69 @@ section > img {
     font-size: 10px;
     font-weight: bold;
 }
+
+/* CSS Testo Principale  */
+.testo_principale {   
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+p > span {
+    background-color: yellow;
+}
+
+ul {
+    padding-left: 15px;
+}
+
+
+/* CSS Tabella  */
+table {
+    padding-top: 30px;
+}
+
+.cella_stretta {
+    width: 20%;
+}
+
+#header_tabella {
+    background-color: #4EA0FF;
+    color: white;
+    text-align: left;
+}
+
+.riga_dispari {
+    background-color: lightblue;
+}
+
+/* CSS Immagini Finali  */
+section > span {
+    font-size: 18px;
+    font-weight: bold;
+    color: grey;
+    padding-bottom: 10px;
+}
+
+.riquadro_immagine1 {
+    margin-top: 15px;
+    height: 200px;
+    width: 300px;
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/182/19/597/green-leaf-tree-at-daytime-wallpaper-preview.jpg');
+}
+
+.riquadro_immagine2 {
+    margin-top: 15px;
+    height: 200px;
+    width: 300px;
+    background-image: url('https://www.ideabit.com/album/foto_full/formato-immagini-webp_710.jpg');
+    margin-bottom: 25px;
+}
+
+.titolo_immagine {
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-top:  10px;
+    display: inline-block;
+}
