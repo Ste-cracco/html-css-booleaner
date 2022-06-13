@@ -37,7 +37,7 @@ h6 span {
     font-weight: 800;
 }
 
-section img {
+section > img {
     margin-top: 20px;
 }
 
