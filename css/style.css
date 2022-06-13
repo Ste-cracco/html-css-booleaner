@@ -37,6 +37,10 @@ h6 span {
     font-weight: 800;
 }
 
+section img {
+    margin-top: 20px;
+}
+
 #commento_foto {
     font-size: 10px;
     font-weight: bold;
